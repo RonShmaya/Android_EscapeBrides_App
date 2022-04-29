@@ -3,19 +3,39 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.183" />
         <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/drawable/ic_bride_down.xml" value="0.172" />
         <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/drawable/ic_bride_left.xml" value="0.16" />
         <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/drawable/ic_bride_right.xml" value="0.172" />
         <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/drawable/ic_bride_top.xml" value="0.172" />
         <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/drawable/ic_down.xml" value="0.172" />
         <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/drawable/ic_heart.xml" value="0.1" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/drawable/ic_launcher_background.xml" value="0.183" />
         <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/drawable/ic_left.xml" value="0.172" />
         <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/drawable/ic_right.xml" value="0.172" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/drawable/ic_sound_on.xml" value="0.1915" />
         <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/drawable/ic_up.xml" value="0.172" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/drawable/ic_user_name.xml" value="0.1685" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/drawable/img_crazy_bride_back.xml" value="0.144" />
         <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/drawable/lay_divider.xml" value="0.179" />
-        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/drawable/no_sound.xml" value="0.1915" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/drawable/table_divider.xml" value="0.144" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/layout/activity_game_option_1.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/layout/activity_game_option_2.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/layout/activity_menu.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/layout/activity_top10.xml" value="0.2" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/layout/content_game_option_1.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/layout/content_game_option_2.xml" value="0.17916666666666667" />
         <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/layout/content_main.xml" value="0.25" />
-        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/menu/menu_main.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/layout/fragment__detailes.xml" value="0.33" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/layout/fragment__details.xml" value="0.25" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/layout/fragment__map.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/layout/fragment_map.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/layout/fragment_top_detailels.xml" value="0.1546875" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/layout/fragment_top_detailels_list.xml" value="0.33" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/menu/menu_main.xml" value="0.33" />
+        <entry key="..\:/Users/ronshmaya/AndroidStudioProjects/EscapeBrides/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1915" />
       </map>
     </option>
   </component>

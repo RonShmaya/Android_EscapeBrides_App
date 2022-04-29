@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_game_option_2">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:id="@+id/game_op_2_LLT_hearts"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="8dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/game_op_2_IMG_heart1"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:src="@drawable/ic_heart" />
+
+            <ImageView
+                android:id="@+id/game_op_2_IMG_heart2"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginStart="8dp"
+                android:src="@drawable/ic_heart" />
+
+            <ImageView
+                android:id="@+id/game_op_2_IMG_heart3"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginStart="8dp"
+                android:src="@drawable/ic_heart" />
+
+        </LinearLayout>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/game_op_2_LBL_score"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="8dp"
+            android:text="000"
+            android:textColor="#000000"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/ic_grass">
+
+            <LinearLayout
+                android:id="@+id/game_op_2_LLT_bord"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:divider="@drawable/lay_divider"
+                android:orientation="vertical"
+                android:showDividers="middle|end|beginning">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:divider="@drawable/lay_divider"
+                    android:orientation="horizontal"
+                    android:showDividers="middle|end|beginning">
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_00"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1" />
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_01"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1" />
+
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_02"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1" />
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_03"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1" />
+
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_04"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:divider="@drawable/lay_divider"
+                    android:orientation="horizontal"
+                    android:showDividers="middle|end|beginning">
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_10"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1" />
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_11"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1" />
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_12"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1" />
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_13"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1" />
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_14"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:divider="@drawable/lay_divider"
+                    android:orientation="horizontal"
+                    android:showDividers="middle|end|beginning">
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_20"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1" />
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_21"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_22"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_23"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_24"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:divider="@drawable/lay_divider"
+                    android:orientation="horizontal"
+                    android:showDividers="middle|end|beginning">
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_30"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_31"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_32"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_33"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_34"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:divider="@drawable/lay_divider"
+                    android:orientation="horizontal"
+                    android:showDividers="middle|end|beginning">
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_40"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1" />
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_41"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_42"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_43"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_44"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:divider="@drawable/lay_divider"
+                    android:orientation="horizontal"
+                    android:showDividers="middle|end|beginning">
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_50"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1" />
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_51"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_52"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_53"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_54"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:divider="@drawable/lay_divider"
+                    android:orientation="horizontal"
+                    android:showDividers="middle|end|beginning">
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_60"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1" />
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_61"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_62"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_63"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+
+                    <ImageView
+                        android:id="@+id/game_op_2_IMG_matrix_64"
+                        android:layout_width="0dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_weight="1"
+                        />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/game_op_2_RLT_startView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#A4ACA0A0"
+            android:gravity="center">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/game_op_2_BTN_start"
+                style="@style/Widget.Material3.FloatingActionButton.Large.Primary"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:text="Start"
+                android:textColor="#0E100E"
+                android:textSize="40dp"
+                app:strokeColor="#FDD835"
+                app:strokeWidth="10dp" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,6 +1,22 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.escapebrides.MainActivity">
+    tools:context="com.example.escapebrides.activities.Activity_game">
+
+
+    <item
+        android:id="@+id/action_sound"
+        android:title="sound"
+        android:icon="@android:drawable/ic_lock_silent_mode"
+        app:showAsAction="always"
+        />
+
+
+    <item
+        android:id="@+id/app_background"
+        android:title="Send"
+        android:icon="@drawable/ic_escape"
+        app:showAsAction="always"
+        />
 
 </menu>
