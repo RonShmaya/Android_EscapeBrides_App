@@ -33,9 +33,9 @@ The chosen subject is a groom escaping from brides (my girlfriend offered due to
 
 | Registration | Top 10 | Menu |
 |---|---|---|
-|<img src="https://media.giphy.com/media/ZV9m2NHXmLPwwpWjfr/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/sCiVcfncxbjp2M3Gg4/giphy-downsized-large.gif" alt="animated"/>|<img src="https://media.giphy.com/media/d3VtBEOGahdG0MRDMT/giphy.gif" alt="animated"/>|
+|<img src="https://media.giphy.com/media/ZV9m2NHXmLPwwpWjfr/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/sCiVcfncxbjp2M3Gg4/giphy-downsized-large.gif" alt="animated"/>|<img src="https://media.giphy.com/media/B1V7GNzL3pUAavlHIu/giphy.gif" alt="animated"/>|
 
 ### 🍹: Business Account
 |Home page|Bar page|Tables & Ordres|
 |---|---|---|
-|<img src="https://media.giphy.com/media/B1V7GNzL3pUAavlHIu/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/sCiVcfncxbjp2M3Gg4/giphy-downsized-large.gif" alt="animated"/>|<img src="https://media.giphy.com/media/mEC8JQBXxZIO5TpPWL/giphy.gif" alt="animated"/>|
+|<img src="https://media.giphy.com/media/d3VtBEOGahdG0MRDMT/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/sCiVcfncxbjp2M3Gg4/giphy-downsized-large.gif" alt="animated"/>|<img src="https://media.giphy.com/media/mEC8JQBXxZIO5TpPWL/giphy.gif" alt="animated"/>|
