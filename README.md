@@ -3,8 +3,17 @@
 <h3 align="center">Android App</h3>
 <h1 align="center">Welcome To Escape-Brides game!</h1>
 
+## :door: Project Requirements 
+ - Devlop a gameApp.
+ - In the game we need an escape & catchers characters.
+ - Two optional game flow: moving by sensors | arrows.
+ - Top players page with google maps marker.
+ - Collecting coins option.
+ - Sound. 
+<br/>
+
 ## :information_source: About 
-When we succeed in finding some time to hang out, we try to be spontaneous, but it's very difficult for us to decide where to go, and find the perfect match. the place that will suit our vibse, the music we like, will be close, or with the perfect happy hour we dream about. so, not any more, happy hour connects people and bars, and helps us to find our perfect place to hang out. 
+The chosen subject is a groom escaping from brides (my girlfriend offered the idea due to the wedding pressure of her friends).
 <br/>
 
 ## :space_invader: Methods
