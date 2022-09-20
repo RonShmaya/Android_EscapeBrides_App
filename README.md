@@ -27,7 +27,6 @@ The chosen subject is a groom escaping from brides (my girlfriend offered due to
 - callback architecture
 
 ## :iphone: App Screens
-### :calling: Login
 - Registration
 - Top 10 - table with all the details on the top 10 players, we will get the player's location (where he was during the game) on pressing the google map icon. 
 - Menu - Options: start game using arrows | start game using sensors | go to Top 10 page 
