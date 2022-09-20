@@ -33,7 +33,7 @@ The chosen subject is a groom escaping from brides (my girlfriend offered due to
 
 | Menu | Top 10 | Registration |
 |---|---|---|
-|<img src="https://media.giphy.com/media/ZV9m2NHXmLPwwpWjfr/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/sCiVcfncxbjp2M3Gg4/giphy-downsized-large.gif" alt="animated"/>|<img src="https://media.giphy.com/media/B1V7GNzL3pUAavlHIu/giphy.gif" alt="animated"/>|
+|<img src="https://media.giphy.com/media/ZV9m2NHXmLPwwpWjfr/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/C9X27ttT4VRBXQGyG9/giphy-downsized-large.gif" alt="animated"/>|<img src="https://media.giphy.com/media/B1V7GNzL3pUAavlHIu/giphy.gif" alt="animated"/>|
 
 ### 🍹: Game options
 Game by sensors - have a collecting coins option & board is bigger.
