@@ -33,7 +33,7 @@ The chosen subject is a groom escaping from brides (my girlfriend offered due to
 
 |Lottie animation|Authentication by google|Authentication by phone number|
 |---|---|---|
-|<img src="https://media.giphy.com/media/R4AJsqt466ysE6D1EO/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/MpQ2gxbeIiYzi7Wii3/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/GGxoOJNQOkKpMOoJW0/giphy.gif" alt="animated"/>|
+|<img src="https://media.giphy.com/media/ZV9m2NHXmLPwwpWjfr/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/MpQ2gxbeIiYzi7Wii3/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/GGxoOJNQOkKpMOoJW0/giphy.gif" alt="animated"/>|
 
 ### 💃 Private Account
 - Upload photos using Image Picker
