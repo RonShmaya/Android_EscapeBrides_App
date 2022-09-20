@@ -35,20 +35,6 @@ The chosen subject is a groom escaping from brides (my girlfriend offered due to
 |---|---|---|
 |<img src="https://media.giphy.com/media/ZV9m2NHXmLPwwpWjfr/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/B1V7GNzL3pUAavlHIu/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/d3VtBEOGahdG0MRDMT/giphy.gif" alt="animated"/>|
 
-### 💃 Private Account
-- Upload photos using Image Picker
-- Search engine
-- google maps - find location by address
-- Calender - you can get date or time from user
-
-|Home page|Google maps|Search Engine|
-|---|---|---|
-|<img src="https://media.giphy.com/media/1O7hkrPEDXVWsWwxBa/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/k5mfcFpYSpWRowsUpa/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/hcfXtHdeXM7fYXM8n6/giphy.gif" alt="animated"/>
-
-|Make Review|Search page|Profile page|Reservation|
-|---|---|---|---|
-|<img src="https://media.giphy.com/media/ft3nsXBNr740EJZgYK/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/H9ywaDxnJ1SxwtmGXe/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/a14Z5ys9IKUy2jL7tn/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/r65IN7S5jU9YHX0DU8/giphy.gif" alt="animated"/>
-
 ### 🍹: Business Account
 |Home page|Bar page|Tables & Ordres|
 |---|---|---|
