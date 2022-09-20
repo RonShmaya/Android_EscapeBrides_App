@@ -38,5 +38,5 @@ The chosen subject is a groom escaping from brides (my girlfriend offered due to
 ### 🍹: Game options
 Game by sensors - have a collecting coins option & board is bigger.
 |Game by Arrowes|Game by sensors|
-|---|---|---|
-|<img src="https://media.giphy.com/media/d3VtBEOGahdG0MRDMT/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/eOZmHi0mgNfz3R4Vqk/giphy.gif" alt="animated"/>
+|---|---|
+|<img src="https://media.giphy.com/media/d3VtBEOGahdG0MRDMT/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/eOZmHi0mgNfz3R4Vqk/giphy.gif" alt="animated"/>|
