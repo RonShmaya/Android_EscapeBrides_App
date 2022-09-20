@@ -13,39 +13,18 @@
 <br/>
 
 ## :information_source: About 
-The chosen subject is a groom escaping from brides (my girlfriend offered the idea due to the wedding pressure of her friends).
+The chosen subject is a groom escaping from brides (my girlfriend offered due to the wedding pressure of her friends).
 <br/>
 
-## :space_invader: Methods
-### Private account
-- Find bars by their happy hours, their names, or the type of music they play.
-- Locate bars near you with Google Maps.
-- Make a reservation.
-- Exposure to bar posts.
-- Make like to posts.
-- Follow bars and get discount.
-- Write bar review.
-- Get lists of the best bars rank.
-- Choose your favorite bar types and get lists accordingly.
-- Get your orders list - Old orders are deleted from the server automatically.
-- Get your followers list.
-
-### Business account
-- Create your own bars.
-- Upload posts.
-- Create tables.
-- See bar orders.
-- Update bar details.
-
 ## ⚙️: Tools & Libraries
-- Real Time Firebase - DB on cloud
-- Storage Firebase - upload photos & videos on cloud
-- Authentication Firbase - for making user with providers like phone and google
 - Google Maps
-- Glide - get photos from cloud Easily
-- Lottie - make your on animation 
 - Gson 
-- Image Picker for upload photos
+- shared preference - saving local data 
+- GPS
+- Sensors 
+- phone vibrate
+- media player
+- callback architecture
 
 ## :iphone: App Screens
 ### :calling: Login
